@@ -1,0 +1,35 @@
+img {
+    width :1000px;
+    height :300px;
+    object-fit: contain;
+}
+
+button {
+    background-color: lightblue;
+    border: none;
+}
+
+body{
+    margin:0;
+    padding:0;
+    text-align:left;
+    font-size: 32px;
+    background-color: #ffe6e6;
+    text-align: center;
+}
+
+.content {
+    font-size: 18px;
+}
+
+input {
+    width:200px;
+}
+
+#uname {
+    margin-left:10px;
+}
+
+#output {
+    font-size: 12px;
+}
